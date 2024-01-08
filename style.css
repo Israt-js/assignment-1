@@ -236,3 +236,16 @@
     font-size: 13px;
     color: #FFF;
 }
+.foot-social{
+    display: flex;
+    justify-content: center;
+}
+.foot-last{
+    color: #FFF;
+    margin-left: 30px;
+}
+.unsub{
+    display: flex;
+    justify-content: right;
+    margin-right: 30px;
+}
