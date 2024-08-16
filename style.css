@@ -12,7 +12,7 @@
 }
 .banner{
     opacity: 0.8;
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../imeges/Banner Image.png');
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('Banner Image.png');
     width: 1200px;
     height: 550px; 
     flex-shrink: 0;
@@ -72,7 +72,7 @@
     margin: 0 auto;
 }
 .join{
-    background-image: linear-gradient(140deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../imeges/Vectorrr.png");
+    background-image: linear-gradient(140deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("Vectorrr.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
