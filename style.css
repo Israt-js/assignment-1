@@ -164,6 +164,77 @@
     justify-content: space-between;
     flex-wrap: wrap;
 }
+.div-i{
+    display: flex;
+    gap: 80px;
+    padding-bottom: 70px;
+}
+.div-1>h3{
+    color: #F00;
+}
+.div-1>h1{
+    font-size: 50px;
+}
+.div-1>p{
+    width: 330px;
+}
+.div-2{
+    color: #F00;
+    border-radius: 30px 60px 70px 100px;
+}
+.div-3>h1{
+    color: #F00;
+    font-size: 52px;
+}
+.div-3>p{
+    width: 280px;
+}
+.holiday{
+    padding-bottom: 0px;
+}
+.holi-1{
+    padding-bottom: 70px;
+}
+.holi-1>h6{
+    text-align: center;
+    font-size: 18px;
+}
+.holi-1>h1{
+    text-align: center;
+    font-size: 38px;
+    padding: 18px;
+}
+.holi-1>p{
+    text-align: center;
+    font-weight: 400;
+}
+.span{
+    color: #F00;
+}
+.holi-2{
+    text-align: right;
+}
+.img-r{
+    position: absolute;
+}
+.img-g{
+    position: relative;
+    right: 170px;
+    padding-right: 122px;
+    padding-top: 80px;
+}
+.red-1 {
+    position: absolute;
+    right: 0px;
+}
+
+.red-2 {
+    position: relative;
+    right: 370px;
+    bottom: 520px;
+    padding-right: 122px;
+    padding-top: 80px;
+}
 .subscribe{
     background-color: #f8d4d4;
     border-radius: 16px;
@@ -230,7 +301,7 @@
     font-size: 13px;
     color: #FFF;
 }
-.foot-h .h{
+.h{
     display: flex;
     justify-content: space-between;
     font-size: 13px;
